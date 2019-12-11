@@ -1,0 +1,9 @@
+{
+  "name": "wp2md",
+  "version": "1.0.0",
+  "description": "A simple tool to convert wordpress dumpfile into markdown.",
+  "main": "/bin/index.js",
+  "repository": "https://github.com/CafuChino/wp2md.git",
+  "author": "CafuChino",
+  "license": "GPL"
+}
