@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "A simple tool to convert wordpress dumpfile into markdown.",
   "main": "/bin/index.js",
-  "repository": "https://github.com/CafuChino/wp2md.git",
+  "repository": "https://github.com/CafuChino/wp2md-cli.git",
   "author": "CafuChino",
   "license": "GPL-3.0-only",
   "bin": {
