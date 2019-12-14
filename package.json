@@ -5,5 +5,19 @@
   "main": "/bin/index.js",
   "repository": "https://github.com/CafuChino/wp2md.git",
   "author": "CafuChino",
-  "license": "GPL"
+  "license": "GPL-3.0-only",
+  "bin": {
+    "wp2md": "/bin/index.js"
+  },
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "colors": "^1.4.0",
+    "commander": "^4.0.1",
+    "html-to-md": "^0.3.2",
+    "inquirer": "^7.0.0",
+    "moment": "^2.24.0",
+    "node-emoji": "^1.10.0",
+    "xml2js": "^0.4.22",
+    "yargs": "^15.0.2"
+  }
 }
