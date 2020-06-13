@@ -3,8 +3,6 @@ const xml2Js = require('xml2js')
 const fs = require('fs')
 const path = require('path')
 const readline = require('readline')
-const assert = require('assert')
-const colors = require('colors')
 const nodeEmoji = require('node-emoji')
 
 function logError(msg) {
