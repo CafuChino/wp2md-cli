@@ -1,6 +1,6 @@
 {
   "name": "wp2md-cli",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A simple tool to convert wordpress dumpfile into markdown.",
   "main": "/bin/index.js",
   "repository": "https://github.com/CafuChino/wp2md-cli.git",
